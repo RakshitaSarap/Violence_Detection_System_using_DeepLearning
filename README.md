@@ -1,7 +1,5 @@
 ﻿# Violence_Detection_System_using_DeepLearning
 
-![System Overview](archdiag.png)
-
 ## Introduction
 
 Violent behavior in public places poses significant challenges to communities worldwide. It undermines productivity, decreases property values, and disrupts social services, making it a critical public health and safety issue. Real-time detection of violence from surveillance videos is essential to promptly alert authorities and prevent incidents from escalating.
@@ -24,7 +22,8 @@ takes to respond to violent incidents is critical. Therefore, there’s a need f
 
 The system involves two primary actors: individuals engaged in violent activities and nearby police stations. Key use cases include human detection, frame extraction, violence detection using MobileNetv2, image enhancement, and alert notifications to police stations.
 
-### Architecture
+### System Architecture
+![System Overview](archdiag.png)
 
 #### Data Collection
 
