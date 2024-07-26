@@ -65,7 +65,7 @@ The system involves two primary actors: individuals engaged in violent activitie
 ![Violence](violence.png)
 
 ### Non-Violence
-![Non-Violence](nonviolence.png)
+![Non-Violence](notviolence.png)
 
 ## Conclusion
 
