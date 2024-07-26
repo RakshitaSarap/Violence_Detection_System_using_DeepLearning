@@ -61,11 +61,11 @@ The system involves two primary actors: individuals engaged in violent activitie
 - **Violence Detected**: Example frame from a video correctly identified as containing violent activity.
 - **Non-Violent**: Example frame correctly labeled as non-violent activity.
 
-### Voilence
-![Voilence](voilence.png)
+### Violence
+![Violence](violence.png)
 
-### Non-Voilence
-![Non-Voilence](nonvoilence.png)
+### Non-Violence
+![Non-Violence](nonviolence.png)
 
 ## Conclusion
 
